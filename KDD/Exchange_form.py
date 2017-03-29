@@ -4,7 +4,7 @@
 __author__ = 'XYlander_Peng'
 
 import csv
-import time
+
 
 def exchange_formation(file_in,file_out_feature,file_out_target):
     csvfile = file(file_in, 'r')
